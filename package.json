@@ -58,7 +58,7 @@
     "xdg-basedir": "^5.1.0"
   },
   "devDependencies": {
-    "@tsconfig/node12": "^1.0.9",
+    "@tsconfig/node12": "^1.0.11",
     "@types/cross-spawn": "^6.0.2",
     "@types/eslint": "^8.4.6",
     "@types/minimist": "^1.2.2",
